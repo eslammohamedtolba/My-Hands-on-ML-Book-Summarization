@@ -2,6 +2,8 @@
 This repository contains a summarization of the third edition of the "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" book. 
 The summarization aims to provide a concise overview of the key concepts and chapters covered in the book.
 
+![Image about the Book](<Hands on Machine Learning with Scikit Learn and TensorFlow 3rd edition.png>)
+
 ## Why this Book
 The third edition of "Hands-On Machine Learning" is a comprehensive guide to machine learning techniques using Scikit-Learn, Keras, and TensorFlow and summarized in four points:
 - **Practical Implementation:** The book's emphasis on practical examples and real-world projects has significantly enhanced my ability to translate theoretical concepts into tangible solutions. Through the comprehensive case studies, I gained valuable insights into addressing complex problems using machine learning.
